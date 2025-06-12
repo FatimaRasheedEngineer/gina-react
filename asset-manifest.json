@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/FatimaRasheedEngineer/GINA.git/static/css/main.50ea02e3.css",
-    "main.js": "/FatimaRasheedEngineer/GINA.git/static/js/main.9f30bde2.js",
-    "static/js/453.58cd8184.chunk.js": "/FatimaRasheedEngineer/GINA.git/static/js/453.58cd8184.chunk.js",
-    "static/media/Gina-lamp.png": "/FatimaRasheedEngineer/GINA.git/static/media/Gina-lamp.c5d60b128c2f509a945f.png",
-    "static/media/green.png": "/FatimaRasheedEngineer/GINA.git/static/media/green.29364d50c14b56f71dfd.png",
-    "static/media/gina-cammera.png": "/FatimaRasheedEngineer/GINA.git/static/media/gina-cammera.2f036a1c8ef04dce8b3b.png",
-    "static/media/speaker.png": "/FatimaRasheedEngineer/GINA.git/static/media/speaker.d207affe954bc7bdace1.png",
-    "static/media/headphone.png": "/FatimaRasheedEngineer/GINA.git/static/media/headphone.735874144ca1b0338e5b.png",
-    "static/media/peach.png": "/FatimaRasheedEngineer/GINA.git/static/media/peach.7d9fb654c3025bd4fb83.png",
-    "index.html": "/FatimaRasheedEngineer/GINA.git/index.html",
-    "main.50ea02e3.css.map": "/FatimaRasheedEngineer/GINA.git/static/css/main.50ea02e3.css.map",
-    "main.9f30bde2.js.map": "/FatimaRasheedEngineer/GINA.git/static/js/main.9f30bde2.js.map",
-    "453.58cd8184.chunk.js.map": "/FatimaRasheedEngineer/GINA.git/static/js/453.58cd8184.chunk.js.map"
+    "main.css": "/FatimaRasheedEngineer/gina-react.git/static/css/main.b7228b5b.css",
+    "main.js": "/FatimaRasheedEngineer/gina-react.git/static/js/main.e5d878fd.js",
+    "static/js/453.58cd8184.chunk.js": "/FatimaRasheedEngineer/gina-react.git/static/js/453.58cd8184.chunk.js",
+    "static/media/Gina-lamp.png": "/FatimaRasheedEngineer/gina-react.git/static/media/Gina-lamp.c5d60b128c2f509a945f.png",
+    "static/media/green.png": "/FatimaRasheedEngineer/gina-react.git/static/media/green.29364d50c14b56f71dfd.png",
+    "static/media/gina-cammera.png": "/FatimaRasheedEngineer/gina-react.git/static/media/gina-cammera.2f036a1c8ef04dce8b3b.png",
+    "static/media/speaker.png": "/FatimaRasheedEngineer/gina-react.git/static/media/speaker.d207affe954bc7bdace1.png",
+    "static/media/headphone.png": "/FatimaRasheedEngineer/gina-react.git/static/media/headphone.735874144ca1b0338e5b.png",
+    "static/media/peach.png": "/FatimaRasheedEngineer/gina-react.git/static/media/peach.7d9fb654c3025bd4fb83.png",
+    "index.html": "/FatimaRasheedEngineer/gina-react.git/index.html",
+    "main.b7228b5b.css.map": "/FatimaRasheedEngineer/gina-react.git/static/css/main.b7228b5b.css.map",
+    "main.e5d878fd.js.map": "/FatimaRasheedEngineer/gina-react.git/static/js/main.e5d878fd.js.map",
+    "453.58cd8184.chunk.js.map": "/FatimaRasheedEngineer/gina-react.git/static/js/453.58cd8184.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.50ea02e3.css",
-    "static/js/main.9f30bde2.js"
+    "static/css/main.b7228b5b.css",
+    "static/js/main.e5d878fd.js"
   ]
 }
