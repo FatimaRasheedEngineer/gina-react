@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/gina-react/static/css/main.e9ea7794.css",
-    "main.js": "/gina-react/static/js/main.b0561b81.js",
+    "main.css": "/gina-react/static/css/main.6e553b9e.css",
+    "main.js": "/gina-react/static/js/main.b721b227.js",
     "static/js/453.58cd8184.chunk.js": "/gina-react/static/js/453.58cd8184.chunk.js",
     "static/media/Gina-lamp.png": "/gina-react/static/media/Gina-lamp.c5d60b128c2f509a945f.png",
     "static/media/green.png": "/gina-react/static/media/green.29364d50c14b56f71dfd.png",
@@ -11,12 +11,12 @@
     "static/media/peach.png": "/gina-react/static/media/peach.7d9fb654c3025bd4fb83.png",
     "static/media/logo.svg": "/gina-react/static/media/logo.574037a95587ad89dd3819e7a5eec277.svg",
     "index.html": "/gina-react/index.html",
-    "main.e9ea7794.css.map": "/gina-react/static/css/main.e9ea7794.css.map",
-    "main.b0561b81.js.map": "/gina-react/static/js/main.b0561b81.js.map",
+    "main.6e553b9e.css.map": "/gina-react/static/css/main.6e553b9e.css.map",
+    "main.b721b227.js.map": "/gina-react/static/js/main.b721b227.js.map",
     "453.58cd8184.chunk.js.map": "/gina-react/static/js/453.58cd8184.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e9ea7794.css",
-    "static/js/main.b0561b81.js"
+    "static/css/main.6e553b9e.css",
+    "static/js/main.b721b227.js"
   ]
 }
