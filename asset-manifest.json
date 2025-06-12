@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/FatimaRasheedEngineer/gina-react/static/css/main.082e1235.css",
-    "main.js": "/FatimaRasheedEngineer/gina-react/static/js/main.78859370.js",
-    "static/js/453.58cd8184.chunk.js": "/FatimaRasheedEngineer/gina-react/static/js/453.58cd8184.chunk.js",
-    "static/media/Gina-lamp.png": "/FatimaRasheedEngineer/gina-react/static/media/Gina-lamp.c5d60b128c2f509a945f.png",
-    "static/media/green.png": "/FatimaRasheedEngineer/gina-react/static/media/green.29364d50c14b56f71dfd.png",
-    "static/media/gina-cammera.png": "/FatimaRasheedEngineer/gina-react/static/media/gina-cammera.2f036a1c8ef04dce8b3b.png",
-    "static/media/speaker.png": "/FatimaRasheedEngineer/gina-react/static/media/speaker.d207affe954bc7bdace1.png",
-    "static/media/headphone.png": "/FatimaRasheedEngineer/gina-react/static/media/headphone.735874144ca1b0338e5b.png",
-    "static/media/peach.png": "/FatimaRasheedEngineer/gina-react/static/media/peach.7d9fb654c3025bd4fb83.png",
-    "index.html": "/FatimaRasheedEngineer/gina-react/index.html",
-    "main.082e1235.css.map": "/FatimaRasheedEngineer/gina-react/static/css/main.082e1235.css.map",
-    "main.78859370.js.map": "/FatimaRasheedEngineer/gina-react/static/js/main.78859370.js.map",
-    "453.58cd8184.chunk.js.map": "/FatimaRasheedEngineer/gina-react/static/js/453.58cd8184.chunk.js.map"
+    "main.css": "/gina-react/static/css/main.9a17bd19.css",
+    "main.js": "/gina-react/static/js/main.4ef2df2c.js",
+    "static/js/453.58cd8184.chunk.js": "/gina-react/static/js/453.58cd8184.chunk.js",
+    "static/media/Gina-lamp.png": "/gina-react/static/media/Gina-lamp.c5d60b128c2f509a945f.png",
+    "static/media/green.png": "/gina-react/static/media/green.29364d50c14b56f71dfd.png",
+    "static/media/gina-cammera.png": "/gina-react/static/media/gina-cammera.2f036a1c8ef04dce8b3b.png",
+    "static/media/speaker.png": "/gina-react/static/media/speaker.d207affe954bc7bdace1.png",
+    "static/media/headphone.png": "/gina-react/static/media/headphone.735874144ca1b0338e5b.png",
+    "static/media/peach.png": "/gina-react/static/media/peach.7d9fb654c3025bd4fb83.png",
+    "index.html": "/gina-react/index.html",
+    "main.9a17bd19.css.map": "/gina-react/static/css/main.9a17bd19.css.map",
+    "main.4ef2df2c.js.map": "/gina-react/static/js/main.4ef2df2c.js.map",
+    "453.58cd8184.chunk.js.map": "/gina-react/static/js/453.58cd8184.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.082e1235.css",
-    "static/js/main.78859370.js"
+    "static/css/main.9a17bd19.css",
+    "static/js/main.4ef2df2c.js"
   ]
 }
